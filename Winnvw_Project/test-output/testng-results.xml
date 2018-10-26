@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88759" started-at="2018-10-26T05:28:05Z" finished-at="2018-10-26T05:29:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88759" started-at="2018-10-26T05:28:05Z" finished-at="2018-10-26T05:29:34Z">
+      <class name="com.winnvm.automationtest.WORKFLOWGetScheduleConfirmation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.winnvm.automationtest.WORKFLOWGetScheduleConfirmation@1f57539]" name="setUp" is-config="true" duration-ms="65816" started-at="2018-10-26T05:28:05Z" finished-at="2018-10-26T05:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test_ImInAHurry()[pri:0, instance:com.winnvm.automationtest.WORKFLOWGetScheduleConfirmation@1f57539]" name="Test_ImInAHurry" duration-ms="22912" started-at="2018-10-26T05:29:11Z" finished-at="2018-10-26T05:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_ImInAHurry -->
+      </class> <!-- com.winnvm.automationtest.WORKFLOWGetScheduleConfirmation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
